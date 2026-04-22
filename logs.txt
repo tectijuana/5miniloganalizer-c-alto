@@ -1,0 +1,6 @@
+GET /index.html 200
+GET /about 201
+GET /error 404
+GET /forbidden 403
+GET /server 500
+GET /crash 503
